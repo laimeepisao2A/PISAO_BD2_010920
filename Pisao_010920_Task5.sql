@@ -1,0 +1,1 @@
+SELECT crs_code, class_section FROM "Jan0920".class WHERE crs_code = 'CIS-220';

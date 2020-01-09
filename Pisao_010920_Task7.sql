@@ -1,0 +1,1 @@
+SELECT emp_num, dept_code, prof_high_degree FROM "Jan0920".professor WHERE dept_code = 'CIS';
