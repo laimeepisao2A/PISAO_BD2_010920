@@ -1,0 +1,1 @@
+SELECT dept_code,dept_name,school_code FROM "Jan0920".department WHERE school_code = 'BUS'; 

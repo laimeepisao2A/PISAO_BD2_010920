@@ -1,0 +1,1 @@
+SELECT dept_code, crs_code FROM "Jan0920".course WHERE crs_credit = '3';
